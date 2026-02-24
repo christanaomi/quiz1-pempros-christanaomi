@@ -5,3 +5,4 @@ Deret nilai (n1, n2, …, n).
 Kode kelompok siswa
 Tugas Buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang diminta. dengan data mahsiswa sebagai berikut Yohanna 75, julius 65, indah 80 dan wilson 70 dengan menggunakan bahasa C dan menggunkan array dan index 
 
+ 

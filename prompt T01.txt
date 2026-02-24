@@ -7,4 +7,4 @@ AP
 GG
 [Porsi Butet]
 END 
-prompt 4 : dan tampilan outputnya harus seperti ini
+prompt 4 : dan tampilan outputnya harus seperti ini 

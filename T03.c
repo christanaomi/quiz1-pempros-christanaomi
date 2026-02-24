@@ -12,7 +12,7 @@ int main() {
     printf("Masukkan berat laundry (kg) : ");
     scanf("%f", &berat);
 
-    if (berat <= 0) {
+    if (berat <= 0) { 
         printf("\nInput tidak valid!\n");
     } else {
 

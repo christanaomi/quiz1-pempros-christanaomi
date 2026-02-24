@@ -42,7 +42,7 @@ int main() {
             harga_menu[i] = 18000;
         }
         else if (strcmp(kode, "MAP") == 0) {
-            strcpy(nama_menu[i], "Mie Ayam");
+            strcpy(nama_menu[i], "Mie Ayam"); 
             harga_menu[i] = 15000;
         }
         else if (strcmp(kode, "GG") == 0) {

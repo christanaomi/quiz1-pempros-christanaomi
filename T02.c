@@ -13,7 +13,7 @@ int main() {
     // Menentukan index awal dan akhir kelompok
     int awal = (kelompok - 1) * anggota_per_kelompok;
     int akhir = awal + anggota_per_kelompok;
-
+ 
     // Menjumlahkan nilai sesuai kelompok
     for (int i = awal; i < akhir; i++) {
         total += nilai[i];
