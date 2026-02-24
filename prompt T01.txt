@@ -1,0 +1,10 @@
+prompt 1 : buat kan saya kode program  bahasa c yang dimana ada 2 orang yang akan makan dan rumah makan tersebut memiliki menu pada gambar tersebut dan harga makanan sebagai berikut menawarkan promo berupa kupon yang ada di gambar kedua juga tiap promo memilki kelipatan seperti 5% untuk belanja 100 rbu , 10% untuk belanja 200rbu, 15% untuk belanja 300 dan seterusnya dan menggunakan pertimbangan berat badan untuk porsi kedua orang tersebut yang dimana orang pertama yaitu laki laki 100kg dan perempuan 50kg
+prompt 2 :oh iya aku lupa bilang kalau ada kode untuk makanan nya seperti gambar berikut agar dimasukkan pada input saaat perhitungan
+prompt 3 : dan buat agar format input nya seperti ini NGS 
+[Porsi Butet]
+AP
+[Porsi Butet]
+GG
+[Porsi Butet]
+END 
+prompt 4 : dan tampilan outputnya harus seperti ini
